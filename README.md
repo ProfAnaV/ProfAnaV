@@ -2,7 +2,7 @@
 
 Meu nome é Ana
 
-Estou estudando na [Alura] (https://alura.com.br)
+Estou estudando na [Alura](https://alura.com.br)
 Estou me desenvolvendo na linguagem de programação JavaScript.
 
 
